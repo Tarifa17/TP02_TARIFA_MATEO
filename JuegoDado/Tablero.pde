@@ -1,5 +1,5 @@
 class Tablero extends GameObject{
-  
+  Dado dado;
   public Tablero(){
   }
   

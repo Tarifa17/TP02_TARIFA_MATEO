@@ -24,7 +24,7 @@ void draw(){
   dado.texto();
 }
 
-void keyPressed(){
+void keyReleased(){
   if(key==' '){
     dado.display();
     int indiceImg = dado.obtenerIndActual();

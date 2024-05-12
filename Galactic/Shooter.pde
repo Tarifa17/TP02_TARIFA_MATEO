@@ -1,5 +1,5 @@
 class Shooter extends GameObject{
-  private int vidaNave;
+  private int cantVidaNave;
   
   public Shooter(){
   }

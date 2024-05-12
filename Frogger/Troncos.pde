@@ -1,4 +1,11 @@
 class Tronco{
-  PImage image;
-  PVector posicion;
+  private PVector velocidad;
+  private PVector posicion;
+  
+  public void display(){
+  }
+  
+  public void mover(){
+    
+  }
 }

@@ -1,3 +1,3 @@
-class Spawner {
-  
+abstract class Spawner{
+ protected PVector posicion; 
 }

@@ -1,4 +1,4 @@
-class Tortuga{ 
+class Vehiculo{
   private PVector velocidad;
   private PVector posicion;
   
